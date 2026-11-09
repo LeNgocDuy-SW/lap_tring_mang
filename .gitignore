@@ -1,0 +1,4 @@
+﻿*.class
+accounts.txt
+chat_history.txt
+.vscode/
